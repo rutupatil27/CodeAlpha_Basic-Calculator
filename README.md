@@ -15,7 +15,7 @@ A simple, responsive, and interactive web-based calculator built using **HTML**,
 
 | 💻 Desktop View | 📱 Mobile View |
 |----------------|----------------|
-| <img src="./preview-desktop.png" width="100%"/> | <img src="./preview-mobile.png" width="100%"/> |
+| <img src="Calculator_ss.png" width="100%"/> | <img src="calci_phone_ss.jpg" width="100%"/> |
 
 ## 🌐 Live Demo
 
