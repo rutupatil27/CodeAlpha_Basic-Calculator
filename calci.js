@@ -8,16 +8,19 @@ let h2= document.querySelector('h2')
 let resflag;
 
 for(allbtn of allbtns){
-    allbtn.addEventListener("click",function show(){
-        if(resflag===true){
-            h2.innerText="";
-            h2.style.opacity="0.5";
-            resflag=false;
-        }
-        h1.innerText+= this.innerText;
-        evaluate();
-        display.scrollLeft= display.scrollWidth;
-    });
+    allbtn.addEventListener("click",show);
+    allbtn.addEventListener("touch",show);
+}
+
+function show(){
+    if(resflag===true){
+        h2.innerText="";
+        h2.style.opacity="0.5";
+        resflag=false;
+    }
+    h1.innerText+= this.innerText;
+    evaluate();
+    display.scrollLeft= display.scrollWidth;
 }
 
 clear.addEventListener('click',()=>{
