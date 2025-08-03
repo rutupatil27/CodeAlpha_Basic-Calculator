@@ -85,7 +85,7 @@ h2{
 
 @media(max-width:350px){
     .calculator{
-        width: 280px;
+        width: 250px;
     }
 }
 
@@ -94,6 +94,7 @@ h2{
         height: 550px;
     }
 }
+
 
 
 
