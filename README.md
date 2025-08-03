@@ -19,7 +19,7 @@ A simple, responsive, and interactive web-based calculator built using **HTML**,
 
 ## 🌐 Live Demo
 
-🔗 [Click here to try the calculator live]([https://your-username.github.io/your-repo-name/](https://rutupatil27.github.io/CodeAlpha_Basic-Calculator/))
+🔗 [Click here to try the calculator live](https://rutupatil27.github.io/CodeAlpha_Basic-Calculator/)
 
 ## 🔧 Tech Stack
 
