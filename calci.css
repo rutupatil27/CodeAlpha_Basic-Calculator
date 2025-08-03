@@ -82,3 +82,15 @@ h2{
 .keys:hover,.equal:hover,.del:hover{
     scale: 1.05;
 }
+
+@media(max-width:350px){
+    .calculator{
+        width: 300px;
+    }
+}
+
+@media(max-width:426px){
+    .calculator{
+        height: 450px;
+    }
+}
