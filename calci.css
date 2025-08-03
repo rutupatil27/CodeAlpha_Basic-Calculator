@@ -91,6 +91,7 @@ h2{
 
 @media(max-width:426px){
     .calculator{
-        height: 450px;
+        height: 500px;
     }
 }
+
